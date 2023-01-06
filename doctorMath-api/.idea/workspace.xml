@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfe712bf-e63a-4fff-a518-c767a02c30c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/java/com/chunjae/doctormathapi/DoctorMathApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/java/com/chunjae/doctormathapi/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/java/com/chunjae/doctormathapi/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/java/com/chunjae/doctormathapi/service/impl/mainServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/java/com/chunjae/doctormathapi/service/mainService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/resources/log4jdbc.log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/main/resources/system.config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doctorMathApi/src/test/java/com/chunjae/doctormathapi/DoctorMathAdminApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="doctorMathApi" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JwQNePhypkUSiwsCBkL8vcGK9n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/chunjae-dev/doctorMath-api",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.48949212",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "229338d29c9aa705a91fa195115d5d72"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\chunjae-dev\doctorMath-api\dortorMathApi\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chunjae.doctormathapi" />
+      <recent name="" />
+      <recent name="com.chunjae.dortormathapi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DortorMathApiApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="dortorMathApi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="dortorMathApi" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoctorMathApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="doctorMathApi.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chunjae.doctormathapi.DoctorMathApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DortorMathApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="doctorMathApi.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chunjae.doctormathapi.DoctorMathApiApplication" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfe712bf-e63a-4fff-a518-c767a02c30c1" name="Changes" comment="" />
+      <created>1672986627515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672986627515</updated>
+      <workItem from="1672986629951" duration="1357000" />
+      <workItem from="1672990090306" duration="895000" />
+      <workItem from="1672991081508" duration="78000" />
+      <workItem from="1672991193493" duration="1235000" />
+      <workItem from="1672993124306" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+</project>
